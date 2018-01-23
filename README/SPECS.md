@@ -1,5 +1,5 @@
 # Banking-System
-Console Banking System for Coding Bootcamp
+Console Banking System for Coding Bootcamp.
 You are required to build a Windows console application where you will be asked to read various inputs from the keyboard. These inputs will be used as login details and actions in order to control the internal banking system of a cooperative company. Each input will be used for directing the various subsystems of this private banking system. The output of the various subsystems will be displayed to the screen or it will be written to simple text files.
 
 A. Logical Units of the application
